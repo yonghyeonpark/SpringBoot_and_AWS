@@ -1,8 +1,0 @@
-project/project1/domain/posts/PostsRepositoryTest.java
- project.project1.domain.posts.PostsRepositoryTest
-project/project1/web/dto/BasicResponseDtoTest.java
- project.project1.web.dto.BasicResponseDtoTest
-project/project1/BasicControllerTest.java
- project.project1.BasicControllerTest
-project/project1/web/PostsApiControllerTest.java
- project.project1.web.PostsApiControllerTest
